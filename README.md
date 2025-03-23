@@ -12,13 +12,11 @@ The site includes details about the workshop background, program committee, venu
 
 ## 🌐 View Live Site
 
-Once deployed to GitHub Pages, the site will be accessible at:
+The site is accessible at:
 
 ```
 https://prlosana.github.io/hyperrealitie/
 ```
-
-(Replace with your actual GitHub username and repository name.)
 
 ## 📁 Structure
 

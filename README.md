@@ -6,7 +6,7 @@ The site includes details about the workshop background, program committee, venu
 
 ## 📄 Contents
 
-- Clean, minimal HTML files
+- Clean, minimal HTML files and CSS
 - No JavaScript or dynamic backend
 - Images and links optimized for GitHub Pages
 

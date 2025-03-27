@@ -6,8 +6,8 @@ The site includes details about the workshop background, program committee, venu
 
 ## 📄 Contents
 
-- Static Jekyll-powered site with layout templates
-- Minimal HTML and CSS only (no JavaScript)
+- Static Jekyll site using the Alembic theme
+- Clean Markdown content pages and structured navigation
 - Deployed on GitHub Pages with a custom domain
 
 ## 🌐 View Live Site
@@ -22,16 +22,17 @@ https://hyperrealitie.org
 
 ```
 /
-├── index.html
-├── venue.html
-├── committee.html
-├── cfp-2014.html
+├── index.md
+├── venue.md
+├── committee.md
+├── cfp-2014.md
 ├── images/
 │   ├── IE14_Banner.jpg
 │   └── HYPER_banner.jpg
 ├── _layouts/
-│   └── default.html
-└── style.css
+├── _data/
+│   └── navigation.yml
+├── _config.yml
 └── README.md
 ```
 

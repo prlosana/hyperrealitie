@@ -13,8 +13,6 @@ Workshop on Hyperrealistic Intelligent Environments 2014
 
 ![IE14 Banner](images/IE14_Banner.jpg)
 
-This event was co-located with the [10th International Conference on Intelligent
-Environments](http://www.intenv.org) IE’14 (2nd–4th July 2014, Shanghai, China).
+The HyperCities workshop is a collaboration between [Cloud of Things’14](http://cloudofthings.org/) and [HyperRealistic Intelligent Environments’14](http://hyperrealitie.com/), co-located with the [10th International Conference on Intelligent Environments](http://www.intenv.org) IE’14 (2nd-4th July 2014, Shanghai, China).
 
-More information on the venue, including tourism, travel and hotels, can be found
-on the [main conference website](http://www.intenv.org/).
+More information on the venue, including tourism, travel and hotels, can be found on the [main conference website](http://www.intenv.org/).

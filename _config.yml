@@ -1,5 +1,5 @@
 title: HyperRealitIE 2014
-description: Workshop on Hyperrealistic Intelligent Environments
+description: Workshop on Hyperrealistic Intelligent Environments 2014
 baseurl: ""  # Leave empty for root domain
 url: "https://hyperrealitie.org"
 
@@ -8,6 +8,6 @@ theme: minima
 minima:
   include:
     - head-custom.html
-    
+
 plugins:
   - jekyll-seo-tag

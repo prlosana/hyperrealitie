@@ -8,6 +8,8 @@ title: HyperRealitIE 2014
 Workshop on Hyperrealistic Intelligent Environments 2014  
 **30th June. Shanghai, China**
 
+![IE14 Banner](images/IE14_Banner.jpg)
+
 ### Background
 
 Hyperreality tries to achieve a vision in which virtuality and reality are seamlessly
@@ -23,8 +25,6 @@ worlds...
 > [1] “Hyperreality : Paradigm for the third millennium”. Tiffin, John; Nobuyoshi Terashima (2005).
 
 ### Programme
-
-![IE14 Banner](images/IE14_Banner.jpg)
 
 The HyperCities workshop is a collaboration between [Cloud of Things’14](http://cloudofthings.org/)
 and [HyperRealistic Intelligent Environments’14](http://hyperrealitie.com/), co-located with the

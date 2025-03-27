@@ -1,11 +1,9 @@
 title: HyperRealitIE 2014
 description: Workshop on Hyperrealistic Intelligent Environments
-baseurl: "" # Leave this empty since your site is at the root domain
-url: "https://hyperrealitie.org" # Your site's URL
+baseurl: ""  # Leave empty for root domain
+url: "https://hyperrealitie.org"
 
-theme: null
-remote_theme: daviddarnes/alembic
+theme: minima
 
 plugins:
-  - jekyll-remote-theme
   - jekyll-seo-tag

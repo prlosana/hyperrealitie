@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: HyperRealitIE 2014
 ---
 

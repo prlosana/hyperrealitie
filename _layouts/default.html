@@ -3,14 +3,14 @@
   <head>
     <meta charset="UTF-8">
     <title>{{ page.title }} - {{ site.title }}</title>
-    <link rel="stylesheet" href="{{ site.baseurl }}/style.css">
+    <link rel="stylesheet" href="/style.css">
   </head>
   <body>
     <nav>
-        <a href="{{ site.baseurl }}/">Home</a> |
-        <a href="{{ site.baseurl }}/cfp-2014.html">Call for Papers</a> |
-        <a href="{{ site.baseurl }}/committee.html">Committee</a> |
-        <a href="{{ site.baseurl }}/venue.html">Venue</a>
+        <a href="{{ '/' | relative_url }}">Home</a> |
+        <a href="{{ '/cfp-2014.html' | relative_url }}">Call for Papers</a> |
+        <a href="{{ '/committee.html' | relative_url }}">Committee</a> |
+        <a href="{{ '/venue.html' | relative_url }}">Venue</a>
       </nav>
     <div class="container">
       {{ content }}

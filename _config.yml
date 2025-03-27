@@ -5,5 +5,9 @@ url: "https://hyperrealitie.org"
 
 theme: minima
 
+minima:
+  include:
+    - head-custom.html
+    
 plugins:
   - jekyll-seo-tag

@@ -31,6 +31,19 @@ and [HyperRealistic Intelligent Environments’14](http://hyperrealitie.com/), c
 [10th International Conference on Intelligent Environments](http://www.intenv.org)
 (IE’14, 2nd–4th July 2014, Shanghai, China).
 
+### HyperCities Workshop – 30th June
+
+| **Time** | **Session** |
+|---------|-------------|
+| **14:00** | **Welcome and Introduction to the workshop**  <br> Anasol Pena-Rios and Vic Callaghan |
+| **14:30** | **Activity based End-User-Development for Smart Homes: Relevance and Challenges**  <br> Alexandre Demeurea, Sybille Caffiau and Joëlle Coutaz – *Univ. Grenoble Alpes, France* |
+| **15:00** | **Research on Service System of Smart Residential District in China**  <br> Bo Wang, Yuhang Zheng, Qinghong Shi, Yuan Gao and Zhiguo Sun – *Chongqing University, China* |
+| **15:30** | **Home-based e-healthcare for elderly: Implications of demand, research and market**  <br> Shiyong Kanga and Liping Shen – *Shanghai Jiao Tong University of Science & Technology, China* |
+| **16:00** | Coffee break |
+| **16:30** | **Adaptive Augmented Reality Serious Game to Foster Problem Solving Skills**  <br> Rania Hodhod, Hillary Fleenor and SyedaliNabi – *Columbus State University, USA* |
+| **17:00** | **The condition of Chinese architecture. Elaboration of a critical approach**  <br> Pier Alessio Rizzardi, Hankun Zhang – *Politecnico di Milano, Italy* |
+| **17:30** | **Towards the Physical Instantiation of Virtual People and Components in Physical Mixed-Reality Tele-Presence Environments**  <br> Ahmed Alzahrani, Vic Callaghan and Michael Gardner – *University of Essex, UK* |
+
 [📄 Download Programme (PDF)](images/ProgrammeHyperCities14.pdf)
 
 ### Proceedings
@@ -39,7 +52,9 @@ Proceedings available from [IOS Press](http://ebooks.iospress.nl/volume/workshop
 
 ### Important Dates
 
-- **Paper submission deadline:** 4th April 2014
-- **Notification of acceptance:** ~~25th April 2014~~ 5th May 2014
-- **Final manuscript due:** ~~6th May 2014~~ 8th May 2014
-- **Workshop date:** 30th June 2014
+| **Milestone**                    | **Date**                     |
+|----------------------------------|------------------------------|
+| Paper submission deadline        | 4th April 2014               |
+| Notification of acceptance       | ~~25th April 2014~~ 5th May 2014 |
+| Final manuscript due             | ~~6th May 2014~~ 8th May 2014   |
+| Workshop date                    | 30th June 2014               |

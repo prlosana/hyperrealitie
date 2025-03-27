@@ -1,0 +1,5 @@
+title: HyperRealitIE 2014
+description: Static site for the Workshop on Hyperrealistic Intelligent Environments 2014
+baseurl: "" # Leave blank if deploying to root
+url: "https://hyperrealitie.org" # Your custom domain
+theme: minima # Optional: Jekyll’s default theme

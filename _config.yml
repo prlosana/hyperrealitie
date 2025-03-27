@@ -1,5 +1,5 @@
 title: HyperRealitIE 2014
 description: Static site for the Workshop on Hyperrealistic Intelligent Environments 2014
-# baseurl: "/hyperrealitie"  # Note: must match the folder name
+baseurl: "/hyperrealitie"  # Note: must match the folder name
 url: "https://hyperrealitie.org" # Your custom domain
 theme: minima # Optional: Jekyll’s default theme

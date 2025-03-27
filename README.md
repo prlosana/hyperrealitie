@@ -6,7 +6,8 @@ The site includes details about the workshop background, program committee, venu
 
 ## 📄 Contents
 
-- Static Jekyll site using the Alembic theme
+- Static Jekyll site using the Minima theme
+- Custom styles applied via `assets/css/custom.css`
 - Clean Markdown content pages and structured navigation
 - Deployed on GitHub Pages with a custom domain
 
@@ -29,7 +30,9 @@ https://hyperrealitie.org
 ├── images/
 │   ├── IE14_Banner.jpg
 │   └── HYPER_banner.jpg
-├── _layouts/
+├── assets/
+│   └── css/
+│       └── custom.css
 ├── _data/
 │   └── navigation.yml
 ├── _config.yml

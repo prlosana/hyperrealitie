@@ -6,16 +6,16 @@ The site includes details about the workshop background, program committee, venu
 
 ## 📄 Contents
 
-- Clean, minimal HTML files and CSS
-- No JavaScript or dynamic backend
-- Images and links optimized for GitHub Pages
+- Static Jekyll-powered site with layout templates
+- Minimal HTML and CSS only (no JavaScript)
+- Deployed on GitHub Pages with a custom domain
 
 ## 🌐 View Live Site
 
 The site is accessible at:
 
 ```
-https://prlosana.github.io/hyperrealitie/
+https://hyperrealitie.org
 ```
 
 ## 📁 Structure
@@ -24,11 +24,14 @@ https://prlosana.github.io/hyperrealitie/
 /
 ├── index.html
 ├── venue.html
-├── committe.html
+├── committee.html
 ├── cfp-2014.html
 ├── images/
 │   ├── IE14_Banner.jpg
 │   └── HYPER_banner.jpg
+├── _layouts/
+│   └── default.html
+└── style.css
 └── README.md
 ```
 

@@ -1,12 +1,15 @@
 ---
 layout: page
 title: Committee
+permalink: /committee/
 ---
 
 ## HyperRealitIE '14
 
 Workshop on Hyperrealistic Intelligent Environments 2014  
 **30th June. Shanghai, China**
+
+![IE14 Banner](images/IE14_Banner.jpg)
 
 # Program Committee
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Venue
+permalink: /venue/
 ---
 
 ## HyperRealitIE '14

@@ -11,3 +11,6 @@ minima:
 
 plugins:
   - jekyll-seo-tag
+
+# Google Analytics 4
+ga_measurement_id: G-VQB8FMRET2

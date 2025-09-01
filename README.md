@@ -13,11 +13,7 @@ The site includes details about the workshop background, program committee, venu
 
 ## 🌐 View Live Site
 
-The site is accessible at:
-
-```
-https://hyperrealitie.org
-```
+The site is accessible at: [hyperrealitie.org](https://hyperrealitie.org)
 
 ## 📁 Structure
 
